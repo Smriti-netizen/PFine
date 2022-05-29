@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutUs"
+    android:background="#305531"
+    android:orientation="vertical"
+    android:gravity="center">
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:padding="25dp"
+        android:layout_gravity="center"
+        android:layout_margin="50dp"
+        app:cardCornerRadius="10dp">
+        <ImageView
+            android:layout_width="140dp"
+            android:layout_height="140dp"
+            android:src="@drawable/remedy"
+            android:layout_gravity="center_horizontal"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:layout_marginBottom="250dp"
+            android:gravity="center"
+            android:text="About Us"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:text="Hello ! We are PFine Team ! \n\nGlad to see you all here. \n\n
+We made this plant disease detection and diagnosis app to help farmers,garden owners
+to easily detect and diagnosis the disease there are plant is suffering with in order to
+increase the yield and the output. Most of the times, farmers and plant takers,resort to wrong diagnoisis
+methods,thus resulting in death of plant.\nThis app is made by love by Smriti Srivastava as part of the Microsoft Engage program,hope you all liked it
+"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:layout_marginTop="150dp"
+            android:layout_marginLeft="13dp"/>
+    </com.google.android.material.card.MaterialCardView>
+
+</LinearLayout>
