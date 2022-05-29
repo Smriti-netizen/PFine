@@ -31,6 +31,8 @@ and diagnosis the disease.
 6 This will direct to the result screen,where the disease detected will be shown and the diagnosis for the disease will be shown.
 
 ScreenShots:
+
+
 ![WhatsApp Image 2022-05-29 at 7 11 23 PM](https://user-images.githubusercontent.com/76514589/170872066-c072842c-5a4e-476c-aa3f-624d35462130.jpeg)
 ![WhatsApp Image 2022-05-29 at 7 11 24 PM](https://user-images.githubusercontent.com/76514589/170872094-ef04ae8e-0026-4281-85d6-9a9d6c03c173.jpeg
 ![WhatsApp Image 2022-05-29 at 7 11 26 PM](https://user-images.githubusercontent.com/76514589/170872120-0ee8c7e7-d19d-4f97-8236-9e337640ab4d.jpeg)
