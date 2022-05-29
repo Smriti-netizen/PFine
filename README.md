@@ -5,8 +5,8 @@ android studio. The rest of the app is coded in Kotlin.
 
 
 Technology Stack:
-1 Python
-2 Kotlin
+1) Python
+2) Kotlin
 
 
 Tools Used: Collab,TensorFlow Lite,Android Studio
@@ -14,21 +14,21 @@ Tools Used: Collab,TensorFlow Lite,Android Studio
 
 
 Features:
-1 Camera is enabled to click and capture photos, and store images .
-2 There is a feature to select image from the gallery.
-3 The app not only detects but also diagnosis the plant disease using the ML model
-4 The app has an interactive and user friendly UI.
+1) Camera is enabled to click and capture photos, and store images .
+2) There is a feature to select image from the gallery.
+3) The app not only detects but also diagnosis the plant disease using the ML model
+4) The app has an interactive and user friendly UI.
 
 
 
 Workflow:
-1 First a Splashscreen will appear.
-2 The Flashscreen will directs towards the Home Screen
-3 The HomeScreen has 3 options, Go to Plant Doctor, Prevention Methods and About Us Sections.
-4 Going to the Plant Doctor section, you can select the image from gallery or click the image from the camera.
-5 After choosing the image to be diagnosed, click on diagnosis disease button and ML model on back will detect 
+1) First a Splashscreen will appear.
+2) The Flashscreen will directs towards the Home Screen
+3) The HomeScreen has 3 options, Go to Plant Doctor, Prevention Methods and About Us Sections.
+4) Going to the Plant Doctor section, you can select the image from gallery or click the image from the camera.
+5) After choosing the image to be diagnosed, click on diagnosis disease button and ML model on back will detect 
 and diagnosis the disease.
-6 This will direct to the result screen,where the disease detected will be shown and the diagnosis for the disease will be shown.
+6) This will direct to the result screen,where the disease detected will be shown and the diagnosis for the disease will be shown.
 
 ScreenShots:
 
